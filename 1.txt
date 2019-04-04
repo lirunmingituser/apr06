@@ -1,7 +1,0 @@
-
-Indonesian,
-Italiano,
-Bahasa Melayu,
-Português (Brasil),
-Português (Portugal),
-Türkçe.
